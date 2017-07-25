@@ -505,7 +505,7 @@ input, button, textarea, select {
 .contact-btn {
   width: 100%;
   position: absolute;
-  bottom: -43px;
+  bottom: -40px;
   color: #fff;
   background-color: #74cfae;
   font-size: 12px;
