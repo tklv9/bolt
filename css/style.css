@@ -54,7 +54,10 @@ input, button, textarea, select {
   text-align: center;
 }
 
-.contact-btn-wrapper { float: right; }
+.contact-btn-wrapper { 
+  float: right;
+  padding: 0 20px 0 0;
+}
 
 .contact-btn {
   padding: 14px 12px;
